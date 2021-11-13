@@ -1,0 +1,2 @@
+com/example/kotlin_posts_app/BuildConfig.java
+ com.example.kotlin_posts_app.BuildConfig
